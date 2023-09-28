@@ -55,6 +55,3 @@ def test_successful(setup_browser):
 
 
 
-        # browser.element("#example-modal-sizes-title-lg").should(have.text("Thanks for submitting the form"))
-        # browser.element(".table-responsive").should(
-        #     have.texts(first_name, last_name, "alex@egorov.com", "Some street 1"))
